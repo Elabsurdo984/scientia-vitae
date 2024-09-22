@@ -1,0 +1,50 @@
+¿Cuál es el país más grande del mundo?|Rusia
+¿Cuál es el río más largo del mundo?|Nilo
+¿Cuál es la capital de Francia?|París
+¿Qué océano es el más grande del mundo?|Océano Pacífico, pacifico
+¿Qué país tiene la mayor población?|India
+¿Cuál es el continente más pequeño?|Oceanía
+¿En qué continente se encuentra el desierto del Sahara?|África
+¿Cuál es la capital de Australia?|Canberra
+¿Cuál es la capital de Brasil?|Brasília
+¿Cuál es el país con la mayor cantidad de islas?|Suecia
+¿Qué país tiene la forma de una bota en el mapa?|Italia
+¿Cuál es el país más poblado de África?|Nigeria
+¿Cuál es el continente con el mayor número de países?|África
+¿Cuál es la capital de Canadá?|Ottawa
+¿Qué país es conocido como la tierra del sol naciente?|Japón
+¿Qué país tiene el mayor número de volcanes activos?|Indonesia
+¿Cuál es la montaña más alta de América del Norte?|Denali
+¿Cuál es la capital de Alemania?|Berlín
+¿Cuál es el país con la mayor cantidad de lagos?|Canadá
+¿Qué mar conecta Europa con Asia?|Mar Mediterráneo, mediterraneo
+¿Cuál es el país más pequeño del mundo?|Ciudad del Vaticano, santa sede
+¿Cuál es la capital de Egipto?|El Cairo, cairo
+¿Qué río atraviesa la ciudad de Londres?|Río Támesis, tamesis
+¿Cuál es el país que tiene una frontera con más países?|China
+¿Cuál es el desierto más grande del mundo?|Desierto de Antártida, antartida
+¿Cuál es la capital de Argentina?|Buenos Aires
+¿Qué país tiene la mayor extensión territorial en América del Sur?|Brasil
+¿Cuál es la capital de India?|Nueva Delhi, delhi
+¿Qué país europeo es conocido por sus molinos de viento y tulipanes?|Países Bajos, holanda
+¿Cuál es el mayor archipiélago del mundo?|Indonesia
+¿Qué país está formado por más de 7,000 islas?|Filipinas
+¿Cuál es el país con la mayor cantidad de parques nacionales?|Estados Unidos, eeuu
+¿Cuál es el río más largo de América del Sur?|Amazonas
+¿Cuál es el continente con el mayor número de lagos?|América
+¿Qué país se encuentra en la península arábiga?|Arabia Saudita
+¿Cuáles son las capitales de Sudáfrica? (con una sola esta bien)|Pretoria, Bloemfontein, Ciudad del Cabo
+¿Qué país es conocido por sus fiordos?|Noruega
+¿Qué país es el principal productor de café en el mundo?|Brasil
+¿Qué país está compuesto por dos islas principales y se encuentra en el Pacífico Sur?|Nueva Zelanda
+¿Cuál es el país con el mayor número de glaciares?|Canadá
+¿Qué país tiene la mayor extensión territorial en el continente africano?|Argelia
+¿Cuál es la capital de Turquía?|Ankara
+¿Qué país tiene el mayor número de cascadas en el mundo?|Noruega
+¿Qué país tiene una gran mayoría de población de habla francesa en África?|Costa de Marfil
+¿Qué océano se encuentra al oeste de América del Norte?|Océano Pacífico, pacifico
+¿Cuál es la capital de Chile?|Santiago
+¿Qué país tiene una frontera con Estados Unidos y está ubicado al sur de este?|México
+¿Qué país está compuesto por más de 1,000 islas en el Pacífico Sur?|Fiji
+¿Qué país africano tiene el nombre de una flor?|Lesoto
+¿Cuál es el río más largo de Europa?|Río Volga, volga

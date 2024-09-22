@@ -1,0 +1,52 @@
+Who painted the Mona Lisa?|Leonardo da Vinci, da vinci
+Which famous sculptor created David?|Michelangelo, michelangelo
+In what style did Vincent van Gogh paint?|PostImpressionism
+Which painter is known for his 'Guernica'?|Pablo Picasso, picasso
+Who is the author of 'The Birth of Venus'?|Sandro Botticelli, botticelli
+What is Salvador Dalí's most famous work?|The Persistence of Memory
+Who painted 'The Starry Night'?|Vincent van Gogh, van gogh
+Which artist is known for his collage technique?|Pablo Picasso, picasso
+Who painted 'The Last Supper'?|Leonardo da Vinci, da vinci
+What is Matisse's masterpiece that uses paper cuts?|The Dance, dance
+Which Spanish painter is known for his 'Water Lilies'?|Claude Monet, monet
+Who is known as the father of Impressionism?|Claude Monet, monet
+Which painter is famous for his portraits of women with flowers?|Gustav Klimt, klimt
+Who is the author of 'The Garden of Earthly Delights'?|Hieronymus Bosch, bosch, the bosch
+Who painted the fresco of 'The Creation of Adam' in the Sistine Chapel?|Michelangelo, michelangelo
+Which artist is famous for his works in the surrealist style?|Salvador Dalí, dali
+Which Flemish painter is known for his still-life paintings?|Jan Davidsz de Heem, de heem
+What is the name of the artist who created 'The Vitruvian Man'?|Leonardo da Vinci, da vinci
+Who painted 'Las Meninas'?|Diego Velázquez, velazquez
+Which artist is famous for his paintings of everyday life and pop culture?|Andy Warhol, warhol
+Which artist painted 'The Birth of Venus'?|Sandro Botticelli, botticelli
+What is Edvard Munch's most well-known work?|The Scream
+Who is the author of 'The School of Athens'?|Raphael
+Which painter is known for his series on 'Marilyn Monroe'?|Andy Warhol, warhol
+What is the name of the famous mural by Diego Rivera in the Detroit Institute of Arts?|The Detroit Mural
+Which Renaissance painter is known for his work 'The Annunciation'?|Leonardo da Vinci, da vinci
+Who painted 'The Girl with a Pearl Earring'?|Johannes Vermeer, vermeer
+Which Russian artist is known for his vibrant colors and geometric shapes?|Vasily Kandinsky, kandinsky
+What is the name of the famous Baroque painter known for his use of chiaroscuro?|Caravaggio
+Which artist is famous for his portraits of French aristocracy in the 18th century?|Élisabeth Louise Vigée Le Brun, le brun
+Who painted 'The Sunflowers'?|Vincent van Gogh, van gogh
+What is the art style that uses techniques like dripping and abstraction?|Abstract Expressionism
+Which painter is famous for his 'Dome Paintings'?|Giotto di Bondone, di bondone
+What is the name of the artist known for his sculptures of winged figures in Ancient Greece?|Phidias
+Who painted 'The Last Judgment' in the Sistine Chapel?|Michelangelo, michelangelo
+Which artist is known for his murals in the Rockefeller Center?|Diego Rivera, rivera
+Which Japanese artist is famous for his woodblock prints during the Edo period?|Hokusai
+Who is known for his 'mobiles' sculptures?|Alexander Calder, calder
+What is the masterpiece of Raphael that shows a gathering of great philosophers?|The School of Athens
+Which artist is known for his paintings of figures in motion, such as 'The Dance'?|Henri Matisse, matisse
+Who painted 'The Surrender of Breda'?|Diego Velázquez, velazques
+Which Renaissance artist is known for his anatomical studies and the drawing of the 'Vitruvian Man'?|Leonardo da Vinci, da vinci
+What is the name of the painter known for his works 'The Girl with a Pearl Earring' and 'The Milkmaid'?|Johannes Vermeer, vermeer
+Which artist painted 'The Family of Charles IV'?|Francisco de Goya, goya
+Which painter is known for his 'portraits of women of high society' in the 19th century?|Édouard Manet, manet
+Who painted 'The Garden of Earthly Delights' triptych?|Hieronymus Bosch, bosch, the bosch
+Which artist is known for his paintings of everyday life in the 17th century?|Jan Vermeer, vermeer
+Who is the author of 'The Lady with an Ermine'?|Leonardo da Vinci, da vinci
+Which painter is known for his 'paintings of everyday life' in the realism era?|Gustave Courbet, courbet
+What is the name of the artist known for his 'paintings of everyday life' in the 19th century?|Édouard Manet, manet
+Which artist is famous for his 'stone sculptures of human figures'?|Michelangelo, miguel angel
+Who painted 'The Arnolfini Portrait'?|Jan van Eyck, van eyck

@@ -1,0 +1,50 @@
+1. ¿Quién fue el primer presidente de los Estados Unidos?|George Washington, washington
+2. ¿En qué año comenzó la Segunda Guerra Mundial?|1939
+3. ¿Qué civilización construyó las pirámides de Giza?|Egipcios, egipcia
+4. ¿Quién fue el líder del Imperio Mongol en el siglo XIII?|Gengis Kan, kan
+5. ¿Cuál fue el primer país en aprobar el sufragio femenino?|Nueva Zelanda
+6. ¿Qué tratado puso fin a la Primera Guerra Mundial?|Tratado de Versalles, Versalles
+7. ¿Quién fue el dictador de Italia durante la Segunda Guerra Mundial?|Benito Mussolini, mussolini
+8. ¿En qué año llegó Cristóbal Colón a América?|1492
+9. ¿Qué imperio fue derrotado en la batalla de Waterloo?|Imperio Napoleónico, napoleonico
+10. ¿Qué país fue dividido por un muro en su capital durante la Guerra Fría?|Alemania
+11. ¿Quién fue el último zar de Rusia?|Nicolás II
+12. ¿En qué año cayó el Imperio Romano de Occidente?|476 d.C., 476
+13. ¿Qué rey inglés tuvo seis esposas?|Enrique VIII
+14. ¿Quién fue el primer hombre en pisar la luna?|Neil Armstrong, armstrong
+15. ¿Qué conflicto bélico tuvo lugar entre 1950 y 1953 en Asia?|Guerra de Corea
+16. ¿Qué país lanzó la primera bomba atómica?|Estados Unidos, EEUU, ee uu
+17. ¿Quién fue el líder del movimiento de independencia de la India?|Mahatma Gandhi, Gandhi
+18. ¿En qué año terminó la Guerra de Vietnam?|1975
+19. ¿Quién fue el presidente de Estados Unidos durante la Gran Depresión y la mayor parte de la Segunda Guerra Mundial?|Franklin D. Roosevelt, roosevelt
+21. ¿Qué antigua civilización es conocida por su escritura cuneiforme?|Sumerios
+22. ¿Quién fue el emperador romano durante la erupción del Vesubio en el 79 d.C.?|Tito
+23. ¿Qué país europeo fue liderado por Francisco Franco durante gran parte del siglo XX?|España
+24. ¿Qué antigua civilización sudamericana construyó Machu Picchu?|Incas
+25. ¿Quién fue el líder de la Revolución Bolchevique en 1917?|Vladimir Lenin, Lenin
+26. ¿Qué imperio gobernó gran parte de Europa, Asia y África en su apogeo, bajo el liderazgo de Alejandro Magno?|Imperio Macedonio, Macedonio
+27. ¿Que revolucion causo el comienzo de la era contemporanea en 1789?|Revolución Francesa, francesa
+28. ¿Quién fue el presidente de Estados Unidos durante la Guerra Civil?|Abraham Lincoln, Lincoln
+29. ¿Qué guerra se libró entre 1899 y 1902 en Sudáfrica?|Guerra de los Bóers, de los boers, boers
+30. ¿Qué civilización inventó la pólvora?|China
+31. ¿Quién fue el dictador de la Unión Soviética durante la Segunda Guerra Mundial?|Iósif Stalin, Stalin
+32. ¿En qué año cayó el muro de Berlín?|1989
+33. ¿Quién fue el faraón egipcio conocido por su tumba intacta descubierta en 1922?|Tutankamón
+34. ¿Qué país se independizó del Imperio Otomano tras la Primera Guerra Mundial y fue liderado por Mustafa Kemal Atatürk?|Turquía
+35. ¿Qué ciudad-estado griega fue famosa por su formación militar?|Esparta
+36. ¿Qué dinastía china construyó la Gran Muralla?|Dinastía Qin, Qin
+37. ¿Qué famoso explorador completó el primer viaje alrededor del mundo?|Fernando de Magallanes, magallanes
+38. ¿Qué país lideró la Era de los Descubrimientos en el siglo XV?|Portugal
+39. ¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?|1776
+40. ¿Quién fue el primer emperador de Roma?|Augusto
+41. ¿Qué líder sudafricano fue liberado tras 27 años de prisión y luego se convirtió en presidente?|Nelson Mandela, mandela
+42. ¿Qué país sufrió la Revolución Cultural bajo el liderazgo de Mao Zedong?|China
+43. ¿Qué antigua civilización mesoamericana construyó Tenochtitlan?|Aztecas
+44. ¿Qué mujer fue la primera en ganar el Premio Nobel?|Marie Curie, curie
+45. ¿Qué país fue gobernado por los zares durante más de 300 años?|Rusia
+46. ¿Qué filósofo griego fue el tutor de Alejandro Magno?|Aristóteles
+47. ¿Qué guerra tuvo lugar entre 1914 y 1918?|Primera Guerra Mundial
+48. ¿Qué ciudad italiana fue destruida por la erupción del Vesubio en el año 79 d.C.?|Pompeya
+49. ¿Qué presidente estadounidense firmó la Proclamación de Emancipación?|Abraham Lincoln, lincoln
+50. ¿Qué reina inglesa es conocida por su largo reinado en el siglo XIX?|Reina Victoria, Victoria
+"""
