@@ -138,10 +138,10 @@ separacion_text = {
 
 # Función para obtener la ruta correcta de los archivos
 def obtener_ruta(relativa):
-    try:
-        base_path = sys._MEIPASS
-    except AttributeError:
-        base_path = os.path.abspath(".")
+    
+    #base_path = sys._MEIPASS
+    base_path = os.path.abspath(".")
+    
     return os.path.join(base_path, relativa)
 
 # Función para normalizar texto eliminando tildes y mayúsculas
@@ -156,7 +156,7 @@ def cargar_preguntas(categoria):
     ruta = obtener_ruta(archivo)
 
     if not os.path.exists(ruta):
-        print(f"Error: El archivo de preguntas para la categoría '{categoria}' no se encontró.")
+        print(f"Error: El archivo de preguntas para la categoría '{categoria}' en path '{ruta}' No se encontró.")
         return []
 
     preguntas = []
@@ -192,20 +192,23 @@ def tirar_dado_func():
     numero_final = random.randint(1, 6)
     
     print(tirando_dado_text[idioma])
-    for _ in range(5):
+    for _ in range(5):  # Simulamos 5 segundos (10 * 0.5)
         numero_actual = random.randint(1, 6)
         print(f"\r{tirando_dado_text[idioma]} {numero_actual}", end="")
-        time.sleep(0.3)
+        time.sleep(0.3)  # Cambiar número cada medio segundo
     print(f"\r{tiraste_un_text[idioma]} {numero_final}!          ")
+    
+    input("Presiona Enter para continuar...")  # Espera a que el jugador presione Enter
+
     return numero_final
 
 # Función para mostrar el tablero
 def mostrar_tablero(posiciones):
     print("\n" + tablero_text[idioma] + ":")
     for i, casilla in enumerate(tablero):
-        jugadores_en_casilla = [str(j + 1) for j in range(len(posiciones)) if posiciones[j] == i]
+        jugadores_en_casilla = [textos_jugador[idioma][j] for j in range(len(posiciones)) if posiciones[j] == i]
         jugadores_str = '/'.join(jugadores_en_casilla) if jugadores_en_casilla else ' '
-        print(f"{i + 1:02d}[{casilla}] ({jugadores_str}) ", end="")
+        print(f"{i + 1:02d}[{casilla}] ({jugadores_str}) ", end="")  
     print("\n")
 
 # Función para manejar las preguntas
@@ -239,10 +242,13 @@ def jugar_turno(jugador, posiciones, puntos):
     input(presiona_enter_text[idioma])
     
     dado = tirar_dado_func()
+    # Mostrar posición antes de mover
     print(f"Posición antes de mover: {posiciones[jugador] + 1}")
 
     # Avanza la ficha
     posiciones[jugador] = (posiciones[jugador] + dado) % len(tablero)
+    
+    # Mostrar posición después de mover
     print(f"Posición después de mover: {posiciones[jugador] + 1}")
     
     categoria = tablero[posiciones[jugador]]
@@ -253,7 +259,6 @@ def jugar_turno(jugador, posiciones, puntos):
     if not pregunta_data or not pregunta_data[0]:
         print("Error al obtener la pregunta. Reintentando..." if idioma == 'es' else "Error obtaining the question. Retrying...")
         return False
-    
     pregunta, respuestas_correctas = pregunta_data
     print(f"{pregunta}")
     respuesta_usuario = input(tu_respuesta_text[idioma]).strip()
@@ -263,15 +268,21 @@ def jugar_turno(jugador, posiciones, puntos):
         print("No has ingresado ninguna respuesta." if idioma == 'es' else "You have not entered any answer.")
     elif es_respuesta_correcta(respuesta_usuario, respuestas_correctas):
         print(correcto_text[idioma])
-        puntos[jugador] += 10
+        puntos[jugador] += 1
     else:
         print(f"{incorrecto_text[idioma]} {', '.join(respuestas_correctas)}")
 
+    # Mostrar las posiciones actuales de los jugadores
     mostrar_posiciones(posiciones)
+
+    # Separación visual entre jugadas
     print(separacion_text[idioma])
+
+    # Esperar a que se presione Ctrl para limpiar el tablero
     print("Presiona Ctrl para continuar...")
-    keyboard.wait('ctrl')
+    keyboard.wait('ctrl')  # Espera a que se presione Ctrl
     return puntos[jugador] >= 10
+
 
 # Función para cambiar el idioma
 def cambiar_idioma_func():
@@ -317,6 +328,8 @@ def mostrar_menu():
             time.sleep(2)
 
 # Función para el juego
+iconos_disponibles = ['!', '#', '$', '%', '&', '=', '?', '¿', '@', '¡', '<', '>']
+
 # Función para el juego
 def jugar():
     global textos_jugador
@@ -329,11 +342,27 @@ def jugar():
                 print("Número de jugadores inválido. Debe ser entre 2 y 10.")
         except ValueError:
             print("Entrada no válida. Por favor, ingresa un número entre 2 y 10.")
-    
-    textos_jugador[idioma] = [f'Jugador {i + 1}' for i in range(num_jugadores)]
+
+    textos_jugador[idioma] = []
+    usados = []
+
+    for i in range(num_jugadores):
+        while True:
+            print(f"\nJugador {i + 1}, elige un símbolo de los siguientes:")
+            for j, simbolo in enumerate(iconos_disponibles):
+                print(f"{j + 1}. {simbolo}")
+            try:
+                seleccion = int(input("Número del símbolo: ")) - 1
+                if 0 <= seleccion < len(iconos_disponibles) and iconos_disponibles[seleccion] not in usados:
+                    textos_jugador[idioma].append(iconos_disponibles[seleccion])
+                    usados.append(iconos_disponibles[seleccion])
+                    break
+                else:
+                    print("Selección inválida o símbolo ya utilizado. Intenta de nuevo.")
+            except ValueError:
+                print("Entrada no válida. Por favor, ingresa un número válido.")
 
     recargar_preguntas()
-
     puntos = [0] * num_jugadores
     posiciones = [0] * num_jugadores
     turno = 0  # Indica a qué jugador le toca
